@@ -10,13 +10,10 @@
 
 ## 📊 GitHub Stats and Top Languages
 
-<div style="display: flex; justify-content: space-between;">
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGonzatti&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGonzatti&layout=compact&theme=radical) |
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGonzatti&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGonzatti&layout=compact&theme=radical)
-
-</div>
 
 ## 🔧 Tech Stack
 
