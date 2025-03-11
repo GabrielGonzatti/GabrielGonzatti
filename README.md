@@ -1,15 +1,35 @@
 ## Hi, I'm Gabriel Gonzatti 👋
 
-- 👜 I am working at Lojas Renner S/A as an IT Analyst. I am a programmer and I develop automations and solutions for operational problems. I offer maintenance and development for the Take Blip platform.
-- 💻 I'm currently working on a professional project to become a SaaS called **MacroPy**—a creation of my own in collaboration with developer William Ferraz.
-- 📚 I am currently learning Python specializations, such as Django and Flask, and I will be seeking other learning opportunities through Alura and self-study on the internet.
+![GIF](https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
+- 👜 I am working at Lojas Renner S/A as an IT Analyst. I am a programmer and I develop automations and solutions for operational problems.
+- 💻 I'm currently working on a professional project to become a SaaS called **MacroPy**.
+- 📚 I am currently learning Python specializations, such as Django and Flask.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love movies, games, and books. I’m also an avid RPG fan.
+- ⚡ Fun fact: I love movies, games, books, and RPGs.
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)
+
+
+## 🔧 Tech Stack
+- **Linguagens:** ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Frameworks:** Django, Flask, React
+- **Ferramentas:** VS Code, Git, Docker
+
+
+## 📫 Contact Me
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="CSS3" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" alt="Java" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" height="80" />
+  <a href="mailto:gabrielgonzatti17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/GabrielGonzatti">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/gonzatti_01">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/gabriel-gonzatti-7866721a1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
