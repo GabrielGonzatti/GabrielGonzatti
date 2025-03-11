@@ -1,15 +1,14 @@
 ## Hi, I'm Gabriel Gonzatti 👋
 
-![GIF](https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
 - 👜 I am working at Lojas Renner S/A as an IT Analyst. I am a programmer and I develop automations and solutions for operational problems.
 - 💻 I'm currently working on a professional project to become a SaaS called **MacroPy**.
 - 📚 I am currently learning Python specializations, such as Django and Flask.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love movies, games, books, and RPGs.
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGonzatti&show_icons=true&theme=radical)
+![GIF](https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGonzatti&show_icons=true&theme=radical)
 
 ## 🔧 Tech Stack
 
@@ -29,9 +28,6 @@
   ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-
-
 
 ## 📫 Contact Me
 
