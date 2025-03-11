@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love movies, games, books, and RPGs.
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGonzatti&show_icons=true&theme=radical)
 
 
 ## 🔧 Tech Stack
