@@ -14,7 +14,6 @@
 |--------------|---------------|
 | ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGonzatti&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGonzatti&layout=compact&theme=radical) |
 
-
 ## 🔧 Tech Stack
 
 - **Linguagens:**
@@ -26,6 +25,7 @@
 - **Frameworks:**
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 - **Ferramentas:**
   ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -33,6 +33,7 @@
   ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 
 ## 📫 Contact Me
 
